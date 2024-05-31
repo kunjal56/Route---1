@@ -1,0 +1,20 @@
+#home{
+  height: 100vh;
+  background-image:linear-gradient( rgba(255,0,0,0), rgba(0, 0, 0, 0.5)), url('https://cdn.pixabay.com/photo/2021/10/09/00/15/landscape-6692712_1280.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text h1{
+  font-size: 60px;
+}
+
+#blogpage{
+  height: 100vh;
+  background-color: black;
+}
+
+#addbox{
+  box-shadow: 0px 0px 15px 1px lightgray;
+}
+
